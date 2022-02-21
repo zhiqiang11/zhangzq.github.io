@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xeon Academic"
+title                    : "Xeon Academic Research"
 title_separator          : "-"
 name                     : &name "Zhang Zhiqiang"
 description              : &description "personal description"
