@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhang Zhiqiang's personal homepage"
+title: "<center>Zhang Zhiqiang's Personal Homepage</center>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
