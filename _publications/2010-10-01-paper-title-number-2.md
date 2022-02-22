@@ -5,7 +5,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is a demonstration platform for map matching algorithms, which integrates the most classic map matching algorithms in our system.'
 date: 2018-11-07
 venue: 'Sensys'
-citation: 'Zhiqiang Zhang,Weixiong Rao,Xiaolei Di,Peng Zhao,Xiaofeng Xu,Fehmi Ben Abdesslem. &quot;Frequent Pattern-based Trajectory Completion.&quot; <i>Sensys 2018 </i>.'
 
 ---
 
