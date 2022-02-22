@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about map matching algorithm,introduced historical trajectory database.'
 date: 2018-6-12
-venue: 'MDM 2018'
+venue: 'MDM'
 paperurl: 'http://zhiqiang11.github.io/files/fp.pdf'
 Recommended citation: Yukun Huang Weixiong Rao§ **Zhiqiang Zhang§** Peng Zhao§ Mingxuan Yuan† Jia Zeng†. "Frequent Pattern-based Map-matching on low sampling rate trajectories" <i>MDM 2018</i>. 
 ---
