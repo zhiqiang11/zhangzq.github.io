@@ -15,27 +15,18 @@ Education
 * M.S. in Tongji University, 2018
 * Ph.D in Peking University, 2021 
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Knowledge Graph
+  * Question Generation based on Knowledge Graph
+  * Question Answer based on Knowledge Graph
+  * Qusetion Semantic Analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spatiotemporal Data Analysis
+  * Map Matching based on GPS trajectory
+  * Map Generation based on GPS trajectory
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,12 +39,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Award
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  * Outstanding Graduate of Tongji University (2018)
+  * Outstanding Students of Tongji University in 2018-2019
+  * Huawei scholarship in 2018-2019 
+  * National Second Prize of the 16th China Postgraduate Mathematical Contest in Modeling
+Personal Statement
 ======
-* Currently signed in to 43 different slack teams
+*I didn't have an obvious preference for scientific research when I was just a graduate student, but after participating in two international academic conferences and communicating with scholars from all over the world, I have strengthened my enthusiasm and ambition to pursue a doctorate and do scientific research. I present my research results to scholars all over the world, hoping to gain their recognition. I will feel genuine joy for every bit of academic progress I have made, and I am eager to explore the unknown and make some valuable achievements.
