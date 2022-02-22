@@ -49,4 +49,4 @@ Award
  
 Personal Statement
 ======
-*I didn't have an obvious preference for scientific research when I was just a graduate student, but after participating in two international academic conferences and communicating with scholars from all over the world, I have strengthened my enthusiasm and ambition to pursue a doctorate and do scientific research. I present my research results to scholars all over the world, hoping to gain their recognition. I will feel genuine joy for every bit of academic progress I have made, and I am eager to explore the unknown and make some valuable achievements.
+I didn't have an obvious preference for scientific research when I was just a graduate student, but after participating in two international academic conferences and communicating with scholars from all over the world, I have strengthened my enthusiasm and ambition to pursue a doctorate and do scientific research. I present my research results to scholars all over the world, hoping to gain their recognition. I will feel genuine joy for every bit of academic progress I have made, and I am eager to explore the unknown and make some valuable achievements.
