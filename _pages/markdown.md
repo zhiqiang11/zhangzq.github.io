@@ -16,4 +16,4 @@ redirect_from:
 | 2     | arXiv 2020      |A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions| [paper](http://zhiqiang11.github.io/files/Complex_KBQA_survey.pdf)|  [ppt](http://zhiqiang11.github.io/files/Complex_KBQA_Survey_ppt.pdf)| [summary](http://zhiqiang11.github.io/files/complex_survey_summery.pdf)|
 | 3     | EMNLP 2016      |On Generating Characteristic-rich Question Sets for QA Evaluation| [paper](http://zhiqiang11.github.io/files/Generating.pdf)|  | [summary](http://zhiqiang11.github.io/files/Characteristic_summery.pdf)|
 | 4     | COLING 2020      |Knowledge-enriched, Type-constrained and Grammar-guided Question Generation over Knowledge Bases| [paper](http://zhiqiang11.github.io/files/Knowledge-enriched.pdf)|[ppt](http://zhiqiang11.github.io/files/Knowledge-enriched-ppt.pdf)  | [summary](http://zhiqiang11.github.io/files/Knowledge-enriched_summery.pdf)|
-
+| 5     | EMNLP 2019      |Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering| [paper](http://zhiqiang11.github.io/files/Enhancing.pdf)| | [summary](http://zhiqiang11.github.io/files/Enhancing_summery.pdf)|
