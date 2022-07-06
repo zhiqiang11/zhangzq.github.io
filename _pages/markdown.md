@@ -18,3 +18,5 @@ redirect_from:
 | 4     | COLING 2020      |Knowledge-enriched, Type-constrained and Grammar-guided Question Generation over Knowledge Bases| [paper](http://zhiqiang11.github.io/files/Knowledge-enriched.pdf)|[ppt](http://zhiqiang11.github.io/files/Knowledge-enriched-ppt.pdf)  | [summary](http://zhiqiang11.github.io/files/Knowledge-enriched_summery.pdf)|
 | 5     | EMNLP 2019      |Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering| [paper](http://zhiqiang11.github.io/files/Enhancing.pdf)| | [summary](http://zhiqiang11.github.io/files/Enhancing_summery.pdf)|
 | 6     | Ruan Jian Xue Bao/Expert Systems With Applications 2018      |基于知识图谱的知识推理研究综述| [paper1](http://zhiqiang11.github.io/files/resoning_survey_1.pdf)/[paper2](http://zhiqiang11.github.io/files/resoning_survey_2.pdf)|[ppt](http://zhiqiang11.github.io/files/resoning_ppt.pdf)  | 
+| 7     | CORR 2022      |Knowledge Base Question Answering by Case-based Reasoning over Subgraphs
+| [paper](http://zhiqiang11.github.io/files/Subgraphs.pdf)| | [summary](http://zhiqiang11.github.io/files/Subgraphs_summery.pdf)|
