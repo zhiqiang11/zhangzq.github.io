@@ -21,3 +21,4 @@ redirect_from:
 | 7     | CORR 2022      |Knowledge Base Question Answering by Case-based Reasoning over Subgraphs| [paper](http://zhiqiang11.github.io/files/Subgraphs.pdf)| | [summary](http://zhiqiang11.github.io/files/Subgraphs-summery.pdf)|
 | 8     | EMNLP 2021      |Case-Based Reasoning for Natural Language Queries over Knowledge Bases| [paper](http://zhiqiang11.github.io/files/Case-Based.pdf)| | [summary](http://zhiqiang11.github.io/files/Case-Based-summery.pdf)|
 | 9     | CIKM 2020      |Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph| [paper](http://zhiqiang11.github.io/files/Hierarchical.pdf)| | [summary](http://zhiqiang11.github.io/files/Hierarchical-summery.pdf)|
+| 10     | EMNLP 2019      |Leveraging Frequent Query Substructures to Generate Formal Queries for Complex Question Answering| [paper](http://zhiqiang11.github.io/files/Leveraging.pdf)| | [summary](http://zhiqiang11.github.io/files/Leveraging-summery.pdf)|
